@@ -37,7 +37,7 @@ body{
 .box{
     display: flex;
     height: 400px;
-    width: 300px;
+    width: 310px;
     justify-content: center;
     padding: 15px;
     flex-direction: column;
